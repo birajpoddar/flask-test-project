@@ -1,0 +1,5 @@
+## Virtual Env dir
+env
+
+## OS file
+.DS_Store
